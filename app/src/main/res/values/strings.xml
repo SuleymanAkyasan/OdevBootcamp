@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Odevler</string>
+
+    <string name="first_text">Robotic Course</string>
+    <string name="second_text1">Are You</string>
+    <string name="second_text2">Ready to</string>
+    <string name="second_text3">Build Your</string>
+    <string name="second_text4">First Robot?</string>
+    <string name="third_text">Do you like puzzles?</string>
+    <string name="fourth_text">Do you love building things?</string>
+    <string name="fifth_text">Do you dream of inventing?</string>
+    <string name="sixth_text">If you say YES, join our club today!</string>
+    <string name="seventh_text">Open for Grades 1-6</string>
+    <string name="eigth_text">www.yourwebsite.com</string>
+
+
+
+
 </resources>

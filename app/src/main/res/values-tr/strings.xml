@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Odevler</string>
+
+    <string name="first_text">Robotic Course</string>
+    <string name="second_text1">Sen</string>
+    <string name="second_text2">İlk Robotunu</string>
+    <string name="second_text3">İnşa Etmeye</string>
+    <string name="second_text4">Hazır Mısın?</string>
+    <string name="third_text">Bulmacaları sever misin?</string>
+    <string name="fourth_text">Bir şeyler inşa etmeye bayılır mısın?</string>
+    <string name="fifth_text">Bir şeyler icat etmek hayalin mi?</string>
+    <string name="sixth_text">Eğer cevabın EVET ise, şimdi kulübümüze katıl!</string>
+    <string name="seventh_text">1-6. sınıflar için</string>
+    <string name="eigth_text">www.yourwebsite.com</string>
+
+
+
+
+</resources>
